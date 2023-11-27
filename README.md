@@ -2,7 +2,7 @@
 
 Built with the Next.js 14 App Router, tRPC, TypeScript, Payload & Tailwind
 
-![Project Image](https://github.com/Nababrata-NITA/artism-v2/blob/master/public/thumbnail.jpg)
+![Project Image](https://github.com/Nababratadeb-NITA/artism-v2/blob/master/public/thumbnail.jpg)
 
 ## Features
 
